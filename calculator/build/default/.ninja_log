@@ -1,0 +1,5 @@
+# ninja log v5
+1	1423	1574538395	CMakeFiles/cpp_demo.dir/src/main.cpp.o	aa7aa68a1882c263
+0	1440	1574538395	CMakeFiles/calculator.dir/src/ScienceCalculator.cpp.o	3188e221a65b2fd2
+1440	1463	1574538396	libcalculator.a	990c6ac84bd1410a
+1463	1553	1574538396	cpp_demo	260846b4b90f7e6

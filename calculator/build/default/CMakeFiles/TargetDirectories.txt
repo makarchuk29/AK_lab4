@@ -1,0 +1,4 @@
+/home/other/sem5/AK+labs/CompArchP2/lab4/calculator/build/default/CMakeFiles/rebuild_cache.dir
+/home/other/sem5/AK+labs/CompArchP2/lab4/calculator/build/default/CMakeFiles/edit_cache.dir
+/home/other/sem5/AK+labs/CompArchP2/lab4/calculator/build/default/CMakeFiles/calculator.dir
+/home/other/sem5/AK+labs/CompArchP2/lab4/calculator/build/default/CMakeFiles/cpp_demo.dir
